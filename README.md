@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello guys! 👋
+i'm Leandro Ruel, a programmer based on São Paulo, Brazil, i don't have much to see here, but feel free to keep in touch
 
 <!--
 **leandroruel/leandroruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
