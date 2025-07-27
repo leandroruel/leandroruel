@@ -1,4 +1,30 @@
-### Hello guys! 👋
-i'm Leandro Ruel, a programmer based on São Paulo, Brazil.
+# 👋 Olá! Eu sou o Leandro
 
-![Metrics](https://metrics.lecoq.io/leandroruel?template=classic&languages=1&gists=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FSao_Paulo)
+Seja bem-vindo ao meu perfil no GitHub!
+
+🎯 **Sobre mim**  
+Sou apaixonado por tecnologia, desenvolvimento de software e soluções criativas. Aqui você vai encontrar projetos em que venho trabalhando — desde APIs robustas até interfaces dinâmicas com React.
+
+💼 **Atualmente focado em**  
+- Desenvolvimento fullstack com **TypeScript**, **Node.js** e **React**
+- Integrações com bancos de dados como **PostgreSQL** e **MongoDB**
+- Arquitetura de APIs GraphQL e REST
+- Criação de interfaces modulares com **Ant Design** e **React DnD**
+- Otimização de fluxos com **JWT**, **Redis**, e práticas modernas de autenticação
+
+📚 **Habilidades & Ferramentas**
+- Linguagens: `TypeScript`, `JavaScript`, `Python`
+- Frontend: `React`, `Next.js`, `Ant Design`, `Tailwind CSS`
+- Backend: `Node.js`, `Express`, `Fastify`, `GraphQL`, `Prisma`
+- Banco de Dados: `PostgreSQL`, `MongoDB`, `Drizzle ORM`
+- DevOps: `Docker`, `GitHub Actions`, `Vercel`, `Railway`
+- Outros: `Zod`, `React DnD`, `Jest`, `Playwright`
+
+📫 **Vamos nos conectar!**  
+- [LinkedIn](https://www.linkedin.com/in/leandro-ribeiro-ruel)
+- leandroruel@yonkolab.io
+
+---
+
+> ⭐ Não esqueça de explorar meus repositórios fixados. Sinta-se à vontade para dar uma estrela ⭐ ou contribuir!
+
