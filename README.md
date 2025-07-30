@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu perfil no GitHub!
 
 🎯 **Sobre mim**  
-Sou apaixonado por tecnologia, desenvolvimento de software e soluções criativas. Aqui você vai encontrar projetos em que venho trabalhando — desde APIs robustas até interfaces dinâmicas com React.
+Curto desenvolvimento de software e soluções criativas. Aqui você vai encontrar projetos em que venho trabalhando — desde APIs robustas até interfaces dinâmicas com React.
 
 💼 **Atualmente focado em**  
 - Desenvolvimento fullstack com **TypeScript**, **Node.js** e **React**
