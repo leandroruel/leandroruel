@@ -21,6 +21,7 @@ Curto desenvolvimento de software e soluções criativas. Aqui você vai encontr
 - Outros: `Zod`, `React DnD`, `Jest`, `Playwright`
 
 - <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroruel"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react)](https://skillicons.dev)
 
 📫 **Vamos nos conectar!**  
 - [LinkedIn](https://www.linkedin.com/in/leandro-ribeiro-ruel)
