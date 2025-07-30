@@ -1,33 +1,21 @@
-# 👋 Olá! Eu sou o Leandro
 
-Seja bem-vindo ao meu perfil no GitHub!
+ <table style="border: none;">
+  <tr>
+    <td>
+ <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/b75f6303-89c9-447f-983e-661999f907ef" /> 
+ </td>
+    <td style="border: none;">
+      <div style="display: flex; flex-direction: column; justify-content: start;">
+      <strong>Hi! I'm Leandro!</strong><br>
+      Software engineer based in São Paulo, I've been building stuff with JavaScript for some time, backend with Node, Express, Fastify. frontend with react, next.js.
+      </div>
+    </td>
+  </tr>
+</table>
 
-🎯 **Sobre mim**  
-Curto desenvolvimento de software e soluções criativas. Aqui você vai encontrar projetos em que venho trabalhando — desde APIs robustas até interfaces dinâmicas com React.
-
-💼 **Atualmente focado em**  
-- Desenvolvimento fullstack com **TypeScript**, **Node.js** e **React**
-- Integrações com bancos de dados como **PostgreSQL** e **MongoDB**
-- Arquitetura de APIs GraphQL e REST
-- Criação de interfaces modulares com **Ant Design** e **React DnD**
-- Otimização de fluxos com **JWT**, **Redis**, e práticas modernas de autenticação
-
-📚 **Habilidades & Ferramentas**
-- Linguagens: `TypeScript`, `JavaScript`, `Python`
-- Frontend: `React`, `Next.js`, `Ant Design`, `Tailwind CSS`
-- Backend: `Node.js`, `Express`, `Fastify`, `GraphQL`, `Prisma`
-- Banco de Dados: `PostgreSQL`, `MongoDB`, `Drizzle ORM`
-- DevOps: `Docker`, `GitHub Actions`, `Vercel`, `Railway`
-- Outros: `Zod`, `React DnD`, `Jest`, `Playwright`
-
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroruel"/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react)](https://skillicons.dev)
-
-📫 **Vamos nos conectar!**  
+📫 **Feel free to get in touch!**  
 - [LinkedIn](https://www.linkedin.com/in/leandro-ribeiro-ruel)
 - leandroruel@yonkolab.io
 
----
 
-> ⭐ Não esqueça de explorar meus repositórios fixados. Sinta-se à vontade para dar uma estrela ⭐ ou contribuir!
 
